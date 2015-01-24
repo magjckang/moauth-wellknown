@@ -1,0 +1,11 @@
+{
+  "name": "moauth-wellknown",
+  "version": "0.1.0",
+  "description": "Well-known oauth2 service configurations and methods.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magjckang/m-oauth.git"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
